@@ -1,0 +1,31 @@
+.photo{
+  height: 340px;
+  width: 340px;
+  border-radius: 100%;
+  
+} 
+.mtavari_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    margin: 50px auto;
+}
+.text_2{
+    color: grey;
+}
+.text_3{
+    color: white;
+    background-color: #97887b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+}
+.text_3_h2{
+    text-align: center;
+    
+}
+
